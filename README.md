@@ -9,4 +9,4 @@
 🎯 Fun fact: I love turning raw data into stories that actually make sense!  
 
 💬 Curious about my projects? **Check out my repos below** and let’s geek out together!
-If you want, I can also add interactive GitHub badges and stats to make it visually dynamic for your profile
+
