@@ -1,12 +1,8 @@
-# Hi there! 👋 Welcome to my GitHub
+# Hey there! 👋 Welcome to my chaotic corner of GitHub
 
-🔍 Exploring the world of **AI, data science, and analytics** — one dataset at a time  
-
-💡 Currently building projects in **predictive modeling, LLMs, and marketing analytics**  
-
-🤝 Always up for **collaboration** — especially if it involves AI experiments or cool visualizations  
-
-🎯 Fun fact: I love turning raw data into stories that actually make sense!  
-
-💬 Curious about my projects? **Check out my repos below** and let’s geek out together!
-
+🤓 Professional data wrangler, part-time code whisperer, full-time coffee enthusiast ☕  
+🎯 Currently training AI models, analyzing datasets, and occasionally convincing Excel to behave  
+🛠️ Projects include predictive modeling, LLM experiments, and marketing analytics wizardry  
+💡 Fun fact: I turn caffeine and curiosity into data insights  
+🤝 Always open to collabs — especially if it involves AI, cool dashboards, or debating which is better: Python vs. R  
+💬 Dive into my repos and let’s make data less boring, one line of code at a time!
